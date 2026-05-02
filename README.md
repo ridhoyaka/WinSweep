@@ -1,0 +1,31 @@
+# 🧹 WinSweep
+
+> **Lightweight CLI, powerful cleanup.**
+
+WinSweep is a lightweight CLI tool to clean junk files in Windows automatically without annoying popups.
+
+---
+
+## ⚡ Features
+
+- 🚀 Fast cleanup (Temp, Windows Temp, Prefetch)
+- ♻️ Auto clear Recycle Bin
+- ❌ Auto-skip files in use (no error popup)
+- 🖥️ Simple CLI interface
+- ⚡ Lightweight & portable
+
+---
+
+## 📦 Download
+
+Download the latest version at:
+👉 https://github.com/ridhoyaka/WinSweep/releases
+
+---
+
+## ▶️ Usage
+
+Run the WinSweep.exe using Run as Administrator:
+
+```bash
+WinSweep.exe
