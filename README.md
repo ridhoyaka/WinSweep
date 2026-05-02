@@ -15,7 +15,7 @@ WinSweep is a lightweight CLI tool to clean junk files in Windows automatically 
 - 🚀 Fast cleanup (Temp, Windows Temp, Prefetch)
 - ♻️ Auto clear Recycle Bin
 - ❌ Auto-skip files in use (no error popup)
-- 🖥️ Simple CLI interface
+- 🖥️ Simple CLI interface (Tested on Windows 11)
 - ⚡ Lightweight & portable
 - ⚠️ Important! This tool will delete files permanently.
 
